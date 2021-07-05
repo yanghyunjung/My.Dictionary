@@ -1,2 +1,2 @@
-# My_Dictionary
-나만의 사전 만들기
+__프로젝트 관련 글은 블로그에👇   
+https://velog.io/@hyunjung/MY-DICTIONARY__ 
